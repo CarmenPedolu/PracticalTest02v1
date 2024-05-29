@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">PracticalTest02v1</string>
+    <string name="get_autocomplete">GET AUTOCOMPLETE</string>
+    <string name="connect">CONNECT</string>
+    <string name="port">Port</string>
+    <string name="server">SERVER</string>
+    <string name="client">CLIENT</string>
+    <string name="address">Address</string>
+    <string name="word">Word</string>
 </resources>
