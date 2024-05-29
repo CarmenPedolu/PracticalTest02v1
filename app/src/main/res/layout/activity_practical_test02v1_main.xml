@@ -8,7 +8,7 @@
     tools:context=".PracticalTest02v1MainActivity">
 
     <EditText
-        android:id="@+id/client_city"
+        android:id="@+id/client_word"
         android:layout_width="185dp"
         android:layout_height="54dp"
         android:ems="10"
@@ -93,7 +93,7 @@
         app:layout_constraintVertical_bias="0.127" />
 
     <Button
-        android:id="@+id/get_weather_forecast_button"
+        android:id="@+id/get_autocomplete_button"
         android:layout_width="160dp"
         android:layout_height="81dp"
         android:text="@string/get_autocomplete"
@@ -106,9 +106,8 @@
 
     <TextView
         android:id="@+id/information_text_view"
-        android:layout_width="354dp"
-        android:layout_height="61dp"
-        android:maxLines="10"
+        android:layout_width="350dp"
+        android:layout_height="135dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.484"
